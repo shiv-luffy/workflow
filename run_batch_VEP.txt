@@ -1,0 +1,10 @@
+002	002.filtered.vcf
+005	005.filtered.vcf
+007	007.filtered.vcf
+012	012.filtered.vcf
+021	021.filtered.vcf
+032	032.filtered.vcf
+034	034.filtered.vcf
+037	037.filtered.vcf
+038	038.filtered.vcf
+041	041.filtered.vcf
