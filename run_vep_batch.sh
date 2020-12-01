@@ -7,8 +7,8 @@ YELLOW='\033[93m'
 ENDC='\033[0m'
 BOLD='\033[1m'
 
-reference="/media/molmed/Data/Reference_Genome/gatk/Homo_sapiens_assembly38.fasta"
-snpeff="/home/molmed/ngs/bin/snpEff/snpEff/snpEff.jar"
+reference="/path/to/file.fasta"
+snpeff="/path/to/snpEff.jar"
 #=================================================================================================#
 count=0
 cat run_batch_VEP.txt | while read sampleID vcfFile;
